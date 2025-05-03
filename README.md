@@ -6,11 +6,7 @@ Here’s a polished and professional version of your **README with top icon link
 
 **Built with [SOFTR](https://studio.softr.io) + [Monday.com](https://pawtouch.monday.com)**
 
-![Image](https://github.com/user-attachments/assets/e96e06a8-e8cb-41d0-a463-0c6418e1987e)
-
-![Image](https://github.com/user-attachments/assets/72340785-1b25-4aae-b001-c909956938de)
-
-![Image](https://github.com/user-attachments/assets/ea91f3b3-edc2-496f-944f-2975f3a7761f)
+![Image](https://github.com/user-attachments/assets/e96e06a8-e8cb-41d0-a463-0c6418e1987e)  ![Image](https://github.com/user-attachments/assets/72340785-1b25-4aae-b001-c909956938de) ![Image](https://github.com/user-attachments/assets/ea91f3b3-edc2-496f-944f-2975f3a7761f)
 
 ---
 
